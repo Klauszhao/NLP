@@ -1,6 +1,5 @@
-## Task3 特征选择 (2 days)
-* TF-IDF原理以及利用其进行特征筛选
-* 互信息的原理以及利用其进行特征筛选
-* [tfidf1](https://www.cnblogs.com/pinard/p/6693230.html) [tfidf2](https://www.jianshu.com/p/f3b92124cd2b) [tfidf3](https://www.jianshu.com/p/362cb98ed586) [互信息](https://blog.csdn.net/u013710265/article/details/72848755)
-
+## Task4 文本表示：从one-hot到word2vec (2 days)
+* 词袋模型：离散、高维、稀疏。
+* 分布式表示：连续、低维、稠密。word2vec词向量原理并实践，用来表示文本。
+* [word2vec1](https://blog.csdn.net/itplus/article/details/37969519) [word2vec2](http://www.hankcs.com/nlp/word2vec.html)
 [参考答案](./../参考答案)
